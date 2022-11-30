@@ -28,7 +28,7 @@ undergraduate students. Must be a U.S. citizen.
 
 **How to apply:**
 
-forms.gle/9U6qcxJHQS5UTUGDA
+[forms.gle/9U6qcxJHQS5UTUGDA](forms.gle/9U6qcxJHQS5UTUGDA)
 
 <img src="qr_app.png" alt="forms.gle/9U6qcxJHQS5UTUGDA" width="200"/>
 
