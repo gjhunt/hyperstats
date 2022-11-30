@@ -1,9 +1,9 @@
 ## Interdisciplinary Statistics for Hypersonics
 
 
-<img src="x42" alt="rob" width="500"/>
+<img src="hyper.png" alt="hyper" width="500"/>
 
-[PDF](flyer.pdf)
+[PDF Flyer](flyer.pdf)
 
 - Gain experience applying statistics & machine learning to help develop
 hypersonic aircraft. 
