@@ -10,7 +10,7 @@ hypersonic aircraft.
 
 - Apply for a paid 8 week summer internship at William & Mary learning programming, statistics, and machine learning skills by working on real problems in hypersonic aerodynamics.
 
-- Students will work with [Dr. Hunt](gjhunt.github.io) (at William & Mary) and collabroators (at NASA Langley) on problems at the intersection of statistics, machine learning, and [hypersonic aerodynamics](https://en.wikipedia.org/wiki/Hypersonic_speed).
+- Students will work with [Dr. Hunt](https://gjhunt.github.io) (at William & Mary) and collabroators (at NASA Langley) on problems at the intersection of statistics, machine learning, and [hypersonic aerodynamics](https://en.wikipedia.org/wiki/Hypersonic_speed).
 
 - Student will work alongside small group of other participants and larger group of William & Mary summer research students. 
 
