@@ -19,6 +19,8 @@ hypersonic aircraft.
 **Who:** Positions available for junior/senior high school and
 undergraduate students. Must be a U.S. citizen.
 
+Some math and programming experience preferred, no aerospace experience required. 
+
 **When:** June 12 - August 4, 2023 (with some flexibility)
 
 **Where:** William & Mary, Williamsburg, VA 23185
@@ -33,5 +35,7 @@ undergraduate students. Must be a U.S. citizen.
 <img src="qr_app.png" alt="forms.gle/9U6qcxJHQS5UTUGDA" width="200"/>
 
 Application close date: Feb. 1, 2023
+
+Applications from under-represented and under-served populations including women and minorities are particularly encouraged.
 
 **Contact:** Dr. Hunt, ghunt@wm.edu
